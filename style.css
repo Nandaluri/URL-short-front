@@ -54,7 +54,7 @@ body {
 form [type="text"] {
   border: 2px solid rgb(201, 164, 44);
   border-radius: 5px;
-  width: 60vw;
+  width: 90vw;
   max-width: 600px;
   height: 40px;
   padding-right: 10px;
@@ -67,7 +67,7 @@ form [type="button"] {
   border-radius: 5px;
   width: 20vw;
   height: 40px;
-  transform: translate(-7px, -2px);
+  margin: 10px;
 }
 form [type="button"]:hover {
   cursor: pointer;
