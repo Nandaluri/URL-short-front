@@ -49,7 +49,15 @@ body {
   background-color: white;
   border-radius: 15px;
 }
+#slug-lookup-section {
+  background-color: white;
+  border-radius: 15px;
+}
 #shorturl-section h2 {
+  color: rgb(93, 177, 145);
+  margin-bottom: 10px;
+}
+#slug-lookup-section h2 {
   color: rgb(93, 177, 145);
   margin-bottom: 10px;
 }
@@ -70,6 +78,7 @@ form [type="button"] {
   width: 20vw;
   height: 40px;
   margin: 10px;
+  font-size: 1.1rem;
 }
 form [type="button"]:hover {
   cursor: pointer;
